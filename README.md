@@ -1,1 +1,1 @@
-# fundamentos
+# fundamentos de programacion
